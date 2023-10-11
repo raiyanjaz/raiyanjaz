@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm **Raiyan**
 
-<!--
-**raiyanjaz/raiyanjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a biomedical engineering student at the University of Waterloo with a strong interest in healthcare software solutions. 
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Exploring innovative ways to merge technology and healthcare.
+💡 Proficient in C++, Python, and JavaScript.
+🏥 Check out my [B-Mode Ultrasound Imaging project](LinkToYourBModeProject).
+
+## Get in Touch
+
+📫 Let's connect, collaborate, or discuss ideas. Feel free to reach out via [email](mailto:raiyanjaz@gmail.com).
+
+Together, we can make a difference in healthcare!
