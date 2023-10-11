@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm a biomedical engineering student at the University of 
 
 🚀 Exploring innovative ways to merge technology and healthcare.
 💡 Proficient in C++, Python, and JavaScript.
-🏥 Check out my [B-Mode Ultrasound Imaging project](LinkToYourBModeProject).
 
 ### Get in Touch
 
@@ -14,4 +13,4 @@ Welcome to my GitHub! I'm a biomedical engineering student at the University of 
 
 Together, we can make a difference in healthcare!
 
-[![Raiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raiyanjaz)](https://github.com/raiyanjaz/github-readme-stats)
+![Raiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raiyanjaz&show_icons=true&theme=transparent)
