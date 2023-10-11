@@ -4,8 +4,8 @@ Welcome to my GitHub! I'm a biomedical engineering student at the University of 
 
 ### What I Do
 
-🚀 Exploring innovative ways to merge technology and healthcare.
-💡 Proficient in C++, Python, and JavaScript.
+- 🚀 Exploring innovative ways to merge technology and healthcare.
+- 💡 Proficient in C++, Python, and JavaScript.
 
 ### Get in Touch
 
