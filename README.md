@@ -13,4 +13,4 @@ Welcome to my GitHub! I'm a biomedical engineering student at the University of 
 
 Together, we can make a difference in healthcare!
 
-![Raiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raiyanjaz&show_icons=true&theme=transparent)
+![Raiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raiyanjaz&show_icons=true&theme=transparent&include_orgs=true)
