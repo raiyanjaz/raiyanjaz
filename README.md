@@ -1,14 +1,13 @@
-# Hi, I'm **Raiyan**
+# Hey, I'm **Raiyan**
 
-Welcome to my GitHub! I'm a biomedical engineering student at the University of Waterloo with a strong interest in healthcare software solutions. 
+Thanks for stopping by! I’m a biomedical engineering student at the University of Waterloo, passionate about building tools that make healthcare smarter and more accessible.
 
-### What I Do
+### A Bit About Me
 
-- 🚀 Exploring innovative ways to merge technology and healthcare.
-- 💡 Proficient in C++, Python, and JavaScript.
+- 🧠 I enjoy combining software and healthcare to solve real-world problems.
+- 👨‍💻 I mostly work with Python, C++ and JavaScript, but I’m always learning something new.
+- 🛠️ Whether it’s wearable tech, medical data tools, or experimental prototypes, I enjoy bringing ideas to life.
 
-### Get in Touch
+### Let’s Connect
 
-📫 Let's connect, collaborate, or discuss ideas. Feel free to reach out via [email](mailto:raiyanjaz@gmail.com).
-
-Together, we can make a difference in healthcare!
+📫 Got a cool idea, a question, or just want to chat? Feel free to reach out via [email](mailto:raiyanjaz@gmail.com).
